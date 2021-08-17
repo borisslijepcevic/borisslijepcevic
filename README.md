@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Spring boot, MySql, Microservice techologies**
 
-- 👯 I’m looking to collaborate Junior level and step into fire. **So, if you need passionate person, contact me.**
+- 👯 I’m looking to collaborate with groups/companies and step into fire. **So, if you need passionate and persistent person for work, contact me.**
 
 - 📫 How to reach me **boris.slijepcevic87@gmail.com**
 
