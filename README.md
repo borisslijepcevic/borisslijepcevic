@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A passionate Junior Java developer from Bosnia and Herzegovina</h3>
 
-- 🔭 I’m currently working on [Hotel managment with microservice technologies](https://github.com/borisslijepcevic/microservice)
+- 🔭 I’m currently working on [Hotel management full stack](https://github.com/borisslijepcevic/hotel-management-full-stack)
 
 - 🌱 I’m currently learning **Java and Spring boot, MySql, Microservice techologies**
 
